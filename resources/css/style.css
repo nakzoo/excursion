@@ -3,8 +3,6 @@ body {
     text-align: center;
     background-color: black;
     color: white;
-    font-weight: normal;
-    font-size: 50px;
 }
 
 .cta {
@@ -29,4 +27,5 @@ p {
 
 .footer {
     text-align: right;
+    
 } 
